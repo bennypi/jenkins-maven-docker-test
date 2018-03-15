@@ -1,6 +1,6 @@
 FROM azul/zulu-openjdk-alpine:8u162
 
-ENV VERSION=1.0.0
+ENV VERSION=1.0.1
 
 EXPOSE 9999
 
